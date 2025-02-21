@@ -14,7 +14,7 @@ Si vous souhaitez installer l'application localement, voici les étapes à suivr
 ### Avec GIT 🧑‍💻
 1. Clonez ce dépôt :
  ```bash
-$ git clone https://github.com/Tconnais/PythonIDE.git
+$ git clone https://github.com/F3kri/PythonIDE.git
 ```
 2. Accédez au dossier du projet :
 ```bash
